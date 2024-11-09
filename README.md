@@ -1,7 +1,6 @@
 **GhostCrypt: Ransomware - Descrição do Arquivo**
 
-GhostCrypt é um ransomware altamente agressivo que criptografa arquivos vitais do sistema alvo, bloqueando o acesso dos usuários e sem nenhum resgate, ou seja, voce nunca vai recuperar os seus dados criptografados, literalmente. Ele usa técnicas de criptografia avançadas e exibe uma interface de bloqueio personalizada, com uma animação visual perturbadora, com o objetivo de coagir as vítimas a pagar pelo desbloqueio de seus arquivos.
-
+GhostCrypt é um ransomware altamente agressivo que criptografa arquivos vitais do sistema alvo, bloqueando o acesso dos usuários e sem nenhum resgate, ou seja, voce nunca vai recuperar os seus dados criptografados, literalmente. Ele usa técnicas de criptografia avançadas e exibe uma interface de bloqueio personalizada, com uma animação visual perturbadora, com o objetivo de criptografar todos os arquivos sem nenhum resgate.
 ### Funcionalidades Principais:
 
 1. **Criptografia de Arquivos:**
