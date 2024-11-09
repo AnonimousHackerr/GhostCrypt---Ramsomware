@@ -28,8 +28,4 @@ GhostCrypt é um ransomware altamente agressivo que criptografa arquivos vitais 
 
 GhostCrypt é uma ferramenta de **ransomware** e, portanto, é **ilegal**. A utilização de ransomware para extorsão e dano a terceiros é um crime em muitas jurisdições ao redor do mundo. Este código **não deve ser usado** para qualquer propósito criminoso. Ele é fornecido para fins educacionais ou de pesquisa em ambientes controlados e nunca deve ser distribuído ou usado para causar dano a indivíduos ou sistemas de qualquer natureza.
 
-**Observe para ter noção do quanto de maldade que é fazer isso com uma pessoa**
-![image](https://github.com/user-attachments/assets/9928ab15-91e2-436a-920c-98ed837dd775)
-
-
 
