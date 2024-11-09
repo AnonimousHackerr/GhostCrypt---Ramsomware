@@ -10,7 +10,8 @@ GhostCrypt é um ransomware altamente agressivo que criptografa arquivos vitais 
    O ransomware gera uma chave de criptografia única (utilizando o algoritmo **Fernet**), que é armazenada em um arquivo oculto para ser usada posteriormente na descriptografia. Se o arquivo de chave não existir, o ransomware o gera automaticamente.
 
 3. **Tela de Bloqueio Visual:**
-   Após a criptografia de arquivos, o ransomware exibe uma tela de bloqueio em **fullscreen** com uma arte ASCII de uma caveira. A tela bloqueia interações do teclado e mouse, tornando impossível para o usuário interagir com o sistema. A tela de bloqueio pisca alternando entre cores verde e preta, criando uma experiência visualmente perturbadora para a vítima.
+   Após a criptografia de arquivos, o ransomware exibe uma tela de bloqueio em **fullscreen** com uma arte ASCII de uma caveira. A tela bloqueia interações do teclado e mouse, tornando impossível para o usuário interagir com o sistema. A tela de bloqueio pisca alternando entre cores verde e preta, criando uma experiência visualmente perturbadora para a vítima, a Caveira se parece mais ou menos com isso: ![image](https://github.com/user-attachments/assets/f1932979-ad49-4e70-a304-d018f6e643a7)
+
 
 4. **Instruções de Resgate:**
    Embora não explicitamente incluído no código, normalmente este tipo de ransomware incluiria instruções dentro da tela de bloqueio, solicitando que a vítima pague um resgate (em criptomoeda, geralmente) para receber a chave de descriptografia e recuperar os arquivos criptografados.
@@ -26,4 +27,5 @@ GhostCrypt é um ransomware altamente agressivo que criptografa arquivos vitais 
 **Aviso Legal:**
 
 GhostCrypt é uma ferramenta de **ransomware** e, portanto, é **ilegal**. A utilização de ransomware para extorsão e dano a terceiros é um crime em muitas jurisdições ao redor do mundo. Este código **não deve ser usado** para qualquer propósito criminoso. Ele é fornecido para fins educacionais ou de pesquisa em ambientes controlados e nunca deve ser distribuído ou usado para causar dano a indivíduos ou sistemas de qualquer natureza.
+
 
