@@ -17,9 +17,9 @@ GhostCrypt é um ransomware altamente agressivo que criptografa arquivos vitais 
    Embora não explicitamente incluído no código, normalmente este tipo de ransomware incluiria instruções dentro da tela de bloqueio, solicitando que a vítima pague um resgate (em criptomoeda, geralmente) para receber a chave de descriptografia e recuperar os arquivos criptografados.
 
 5. **Caminho de Criptografia Abrangente:**
-   O GhostCrypt criptografa arquivos em diretórios essenciais do sistema (como o diretório **C:\Windows\System32**, **Program Files**, **/bin**, **/usr**, etc.), aumentando a probabilidade de danos significativos e forçando as vítimas a pagar pelo resgate.
-
-6. **Mecanismo Anti-Sandbox:**
+   O GhostCrypt criptografa arquivos em todos os diretórios, assim, forçando a vitima a comprar um computador novo por causa que não tem nenhum resgate qualquer 
+    
+7. **Mecanismo Anti-Sandbox:**
    Embora o código original não contenha uma verificação explícita para ambientes virtuais, a criptografia de arquivos críticos, juntamente com os métodos de ofuscação simples e o comportamento aleatório (como delays entre as criptografias), são táticas que tornam a análise em um ambiente de pesquisa mais difícil.
 
 ---
@@ -27,5 +27,9 @@ GhostCrypt é um ransomware altamente agressivo que criptografa arquivos vitais 
 **Aviso Legal:**
 
 GhostCrypt é uma ferramenta de **ransomware** e, portanto, é **ilegal**. A utilização de ransomware para extorsão e dano a terceiros é um crime em muitas jurisdições ao redor do mundo. Este código **não deve ser usado** para qualquer propósito criminoso. Ele é fornecido para fins educacionais ou de pesquisa em ambientes controlados e nunca deve ser distribuído ou usado para causar dano a indivíduos ou sistemas de qualquer natureza.
+
+**Observe para ter noção do quanto de maldade que é fazer isso com uma pessoa**
+![image](https://github.com/user-attachments/assets/9928ab15-91e2-436a-920c-98ed837dd775)
+
 
 
